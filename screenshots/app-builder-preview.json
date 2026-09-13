@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sift",
+      "hasCanvas": false,
+      "bodyTextLen": 5119,
+      "bodyTextHash": "f01595e5d8821b013d1752ab083543700d00bbd225a52fa37519cd5402f6b5ee",
+      "bodyTextPrefix": "Sift Your Grok chats, sorted. Insights Library 28 Cleanup 6 Impo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sift",
+      "hasCanvas": false,
+      "bodyTextLen": 4946,
+      "bodyTextHash": "f356ff000a00083854e447eb9a9e55c9d78322c4d08a05366236c63405b60876",
+      "bodyTextPrefix": "Sift Ask Grok Sample Grok library so you can try analysis now. I",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

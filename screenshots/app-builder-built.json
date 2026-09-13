@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sift",
+      "hasCanvas": false,
+      "bodyTextLen": 4,
+      "bodyTextHash": "5b56d21e16392e86c4f696a383126fe01221fc1dd64f0e3bde1425fcde7e27d4",
+      "bodyTextPrefix": "Sift",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sift",
+      "hasCanvas": false,
+      "bodyTextLen": 4,
+      "bodyTextHash": "5b56d21e16392e86c4f696a383126fe01221fc1dd64f0e3bde1425fcde7e27d4",
+      "bodyTextPrefix": "Sift",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text collapsed (5119 -> 4 chars)",
+    "mobile: body text collapsed (4946 -> 4 chars)"
+  ]
+}
